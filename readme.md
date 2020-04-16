@@ -1,7 +1,7 @@
 ## forSaleHelper available as:
 
-.._ [Userscript for Trampermonkey or Greasemonkey](https://github.com/przemekbok/forSaleHelper-Userscript)
-.._ [Chrome Browser addon](https://github.com/przemekbok/forSaleHelper-Chrome)
+- [Userscript for Trampermonkey or Greasemonkey](https://github.com/przemekbok/forSaleHelper-Userscript)
+- [Chrome Browser addon](https://github.com/przemekbok/forSaleHelper-Chrome)
 
 ## About
 
